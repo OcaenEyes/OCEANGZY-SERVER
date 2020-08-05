@@ -66,7 +66,8 @@ public class UserController {
             user1.setPassWord(password);
             user1.setUserId(UUID.randomUUID().toString());
             user1.setAvatarUrl("assets/images/3.jpg");
-            user1.setSignWord("这个人很懒，木有签名");
+            String signWord="这个人很懒，木有签名";
+            user1.setSignWord(signWord);
             SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
             String date = simpleDateFormat.format(new Date());
             user1.setCreateTime(date);
