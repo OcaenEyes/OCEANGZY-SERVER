@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b52b0f7-b1e6-451d-9708-597d0ab6a631" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ffKYCLOrtJahrk9ajQC84KDiF4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b52b0f7-b1e6-451d-9708-597d0ab6a631" name="Default Changelist" comment="" />
+      <created>1596603751961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596603751961</updated>
+      <workItem from="1596603754666" duration="367000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-2019" y="298" key="SettingsEditor" timestamp="1596603850997">
+      <screen x="-2560" y="23" width="2560" height="1417" />
+    </state>
+    <state x="-2019" y="298" key="SettingsEditor/0.23.1389.877/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1596603850997" />
+    <state x="-1936" y="229" key="new project wizard" timestamp="1596604119965">
+      <screen x="-2560" y="23" width="2560" height="1417" />
+    </state>
+    <state x="-1936" y="229" key="new project wizard/0.23.1389.877/-2560.23.2560.1417@-2560.23.2560.1417" timestamp="1596604119965" />
+  </component>
+</project>
