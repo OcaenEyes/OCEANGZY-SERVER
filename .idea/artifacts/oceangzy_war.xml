@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="oceangzy:war">
+    <output-path>$PROJECT_DIR$/oceangzy/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>oceangzy</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="oceangzy-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="oceangzy:war exploded" />
+    </root>
+  </artifact>
+</component>

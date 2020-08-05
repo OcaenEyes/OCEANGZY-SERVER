@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/OCEANGZY-SERVER.iml" filepath="$PROJECT_DIR$/.idea/OCEANGZY-SERVER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oceangzy/oceangzy.iml" filepath="$PROJECT_DIR$/oceangzy/oceangzy.iml" />
     </modules>
   </component>
 </project>
